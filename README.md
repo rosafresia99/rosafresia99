@@ -1,24 +1,34 @@
+# Hi there, I'm Rosa Afresia Siagian! 👋
+
+**Software Quality Assurance Engineer**
+
+📞 +6282367065759 | 📧 [rosaafresiasiagian@gmail.com](mailto:rosaafresiasiagian@gmail.com) | 🏠 Jakarta, Indonesia  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rosaafresiasiagian-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rosa-afresia-siagian)
+[![GitHub](https://img.shields.io/badge/GitHub-rosafresia99-lightgrey?style=flat-square&logo=github)](https://github.com/rosafresia99)
+[![Medium](https://img.shields.io/badge/Medium-@rosaafs_-black?style=flat-square&logo=medium)](https://medium.com/@rosaafs_)
+[![LeetCode](https://img.shields.io/badge/LeetCode-rosafresiasiagian-yellow?style=flat-square&logo=leetcode)](https://leetcode.com/u/rosaafresiasiagian/)
+
+---
+
+As a Software Quality Assurance Engineer with three years of experience in manual and automated testing, I excel in developing test cases, automating regression tests, and collaborating with cross-functional teams to ensure high-quality software. My expertise in various testing tools and frameworks, combined with my background in computer science, allows me to effectively contribute to the success of projects.
+
+## 🛠️ Skills
+
+- **Manual Testing:** API, ETL, Website, Mobile
+- **Automation Tools:** Postman, Selenium, Jest, RIT, Cypress, Appium, JMeter, Katalon
+- **Management Tools:** Jira, Notion
+- **Programming Languages:** SQL, JavaScript
+- **Other Tools:** Git, Insomnia, DbVisualizer, Dbeaver, mremoteNG, Kibana, k8dash
+
+## 🌟 Featured Projects
+
+### [Project 1: Automated Performance Testing for APIs](https://github.com/rosafresia99/jmeter_repository)
+Developed and maintained automated performance tests using Jmeter, focus on load and scalability testing
+
+### [Project 2: Comprehensive Test Cases for Web and Mobile Applications](https://github.com/rosafresia99/Sanber56-Cypress-Kelompok2)
+Developed and maintained automated regression tests using Cypress
 
 
-# Hi there, I'm Rosa Afresia! 👋
-
-I'm a QA Engineer with a passion for ensuring software quality and reliability. I love working on automated testing, continuous integration, and improving the development workflow.
-
-- 🔭 I’m currently working on [Project Name]
-- 🌱 I’m currently learning [Technology/Tool]
-- 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Contact Information]
-- ⚡ Fun fact: [Something Interesting About You]
-
-## 🛠️ Technologies & Tools
-
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 
 ## 📈 GitHub Stats
 
@@ -26,6 +36,8 @@ I'm a QA Engineer with a passion for ensuring software quality and reliability. 
 
 ## 📫 Connect with Me
 
-- [LinkedIn][(https://www.linkedin.com/in/your-linkedin)](https://www.linkedin.com/in/rosa-afresia-siagian/)
-- [Email]rosaafresiasiagian@gmai.com
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/rosa-afresia-siagian) or via [email](mailto:rosaafresiasiagian@gmail.com). I'm always open to discussing new projects, collaborations, or opportunities to connect with like-minded professionals.
 
+---
+
+Thank you for visiting my GitHub profile! 😊
