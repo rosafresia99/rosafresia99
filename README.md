@@ -30,9 +30,12 @@ Developed and maintained automated regression tests using Cypress
 
 
 
-## 📈 GitHub Stats
+## 💡 Additional Learning
 
-![Rosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosafresia99&show_icons=true&theme=radical)
+### [LeetCode Profile](https://leetcode.com/u/rosaafresiasiagian/)
+Actively solving coding challenges to enhance problem-solving skills and algorithm knowledge.
+
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/?username=rosaafresiasiagian)
 
 ## 📫 Connect with Me
 
