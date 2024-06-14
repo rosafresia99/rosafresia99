@@ -2,7 +2,6 @@
 
 **Software Quality Assurance Engineer**
 
-📞 +6282367065759 | 📧 [rosaafresiasiagian@gmail.com](mailto:rosaafresiasiagian@gmail.com) | 🏠 Jakarta, Indonesia  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rosaafresiasiagian-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rosa-afresia-siagian)
 [![GitHub](https://img.shields.io/badge/GitHub-rosafresia99-lightgrey?style=flat-square&logo=github)](https://github.com/rosafresia99)
 [![Medium](https://img.shields.io/badge/Medium-@rosaafs_-black?style=flat-square&logo=medium)](https://medium.com/@rosaafs_)
