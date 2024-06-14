@@ -34,7 +34,7 @@ Developed and maintained automated regression tests using Cypress
 ### [LeetCode Profile](https://leetcode.com/u/rosaafresiasiagian/)
 Actively solving coding challenges to enhance problem-solving skills and algorithm knowledge.
 
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/?username=rosaafresiasiagian)
+![LeetCode Stats](https://leetcard.jacoblin.cool/rosaafresiasiagian?theme=light&font=Alef&ext=activity)
 
 ## 📫 Connect with Me
 
