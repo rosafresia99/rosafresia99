@@ -17,7 +17,7 @@ As a Software Quality Assurance Engineer with three years of experience in manua
 - **Automation Tools:** Postman, Selenium, Jest, RIT, Cypress, Appium, JMeter, Katalon
 - **Management Tools:** Jira, Notion
 - **Programming Languages:** SQL, JavaScript
-- **Other Tools:** Git, Insomnia, DbVisualizer, Dbeaver, mremoteNG, Kibana, k8dash
+- **Other Tools:** Git, Insomnia, Dbeaver, mremoteNG, Kibana, k8dash
 
 ## 🌟 Featured Projects
 
