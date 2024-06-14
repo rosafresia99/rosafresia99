@@ -24,7 +24,7 @@ As a Software Quality Assurance Engineer with three years of experience in manua
 ### [Project 1: Automated Performance Testing for APIs](https://github.com/rosafresia99/jmeter_repository)
 Developed and maintained automated performance tests using Jmeter, focus on load and scalability testing
 
-### [Project 2: Comprehensive Test Cases for Web and Mobile Applications](https://github.com/rosafresia99/Sanber56-Cypress-Kelompok2)
+### [Project 2: Comprehensive Test Cases for Web Applications](https://github.com/rosafresia99/Sanber56-Cypress-Kelompok2)
 Developed and maintained automated regression tests using Cypress
 
 
